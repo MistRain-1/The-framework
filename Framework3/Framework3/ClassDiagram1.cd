@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Framework3.AudioControl">
+    <Position X="0.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAACAAAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>AudioControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Framework3.PlayerControl">
+    <Position X="3.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PlayerControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Framework3.CameraControl">
+    <Position X="0.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CamaraControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Framework3.Virus">
+    <Position X="3.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Virus.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Framework3.Disinfectant">
+    <Position X="5.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAABAAAAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>Disinfectant.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Framework3.AnimatorControl">
+    <Position X="6.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAg=</HashCode>
+      <FileName>AnimatorControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Framework3.GameManager">
+    <Position X="1" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>GameControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>

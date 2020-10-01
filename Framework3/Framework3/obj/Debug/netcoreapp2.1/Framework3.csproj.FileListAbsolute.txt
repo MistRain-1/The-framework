@@ -1,0 +1,10 @@
+C:\Users\sk\source\repos\Framework3\Framework3\bin\Debug\netcoreapp2.1\Framework3.deps.json
+C:\Users\sk\source\repos\Framework3\Framework3\bin\Debug\netcoreapp2.1\Framework3.runtimeconfig.json
+C:\Users\sk\source\repos\Framework3\Framework3\bin\Debug\netcoreapp2.1\Framework3.runtimeconfig.dev.json
+C:\Users\sk\source\repos\Framework3\Framework3\bin\Debug\netcoreapp2.1\Framework3.dll
+C:\Users\sk\source\repos\Framework3\Framework3\bin\Debug\netcoreapp2.1\Framework3.pdb
+C:\Users\sk\source\repos\Framework3\Framework3\obj\Debug\netcoreapp2.1\Framework3.csproj.CoreCompileInputs.cache
+C:\Users\sk\source\repos\Framework3\Framework3\obj\Debug\netcoreapp2.1\Framework3.AssemblyInfoInputs.cache
+C:\Users\sk\source\repos\Framework3\Framework3\obj\Debug\netcoreapp2.1\Framework3.AssemblyInfo.cs
+C:\Users\sk\source\repos\Framework3\Framework3\obj\Debug\netcoreapp2.1\Framework3.dll
+C:\Users\sk\source\repos\Framework3\Framework3\obj\Debug\netcoreapp2.1\Framework3.pdb
