@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AudioControl">
+    <Position X="3" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAQAAIAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\AudioControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SceneControl">
+    <Position X="5.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAQA=</HashCode>
+      <FileName>Assets\Scripts\AudioControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectControl">
+    <Position X="7.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>Assets\Scripts\ProjectControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerControl">
+    <Position X="3" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAABBAAAAAAAAAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>Assets\Scripts\PlayerControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnimatorControl">
+    <Position X="5.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAEAA=</HashCode>
+      <FileName>Assets\Scripts\AnimatorControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
