@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\GitHub\\FrameWork\\Framework2\\Framework2\\Framework2\\Framework2.csproj": {}
+    "E:\\GitHub\\FrameWork\\Framework4\\FrammeWork4\\FrammeWork4\\FrammeWork4.csproj": {}
   },
   "projects": {
-    "E:\\GitHub\\FrameWork\\Framework2\\Framework2\\Framework2\\Framework2.csproj": {
+    "E:\\GitHub\\FrameWork\\Framework4\\FrammeWork4\\FrammeWork4\\FrammeWork4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\GitHub\\FrameWork\\Framework2\\Framework2\\Framework2\\Framework2.csproj",
-        "projectName": "Framework2",
-        "projectPath": "E:\\GitHub\\FrameWork\\Framework2\\Framework2\\Framework2\\Framework2.csproj",
+        "projectUniqueName": "E:\\GitHub\\FrameWork\\Framework4\\FrammeWork4\\FrammeWork4\\FrammeWork4.csproj",
+        "projectName": "FrammeWork4",
+        "projectPath": "E:\\GitHub\\FrameWork\\Framework4\\FrammeWork4\\FrammeWork4\\FrammeWork4.csproj",
         "packagesPath": "C:\\Users\\Administrator.PC-20201002IMTW\\.nuget\\packages\\",
-        "outputPath": "E:\\GitHub\\FrameWork\\Framework2\\Framework2\\Framework2\\obj\\",
+        "outputPath": "E:\\GitHub\\FrameWork\\Framework4\\FrammeWork4\\FrammeWork4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator.PC-20201002IMTW\\AppData\\Roaming\\NuGet\\NuGet.Config",
